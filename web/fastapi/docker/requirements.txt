@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+apscheduler
+pandas
+numpy
+pymysql
+requests
+statsmodels
+scikit-learn

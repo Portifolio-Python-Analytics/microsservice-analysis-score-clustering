@@ -1,0 +1,9 @@
+flask
+flask-cors
+apscheduler
+pandas
+numpy
+pymysql
+requests
+statsmodels
+scikit-learn
