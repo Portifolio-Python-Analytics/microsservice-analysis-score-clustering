@@ -7,6 +7,9 @@ Projeto voltado para a criação de um sistema que irá interagir com um banco d
 ### **Utilizando Flask**
 ![Diagrama Flask](./docs/diagrams/flask.png)
 
+### **Utilizando Jupyter**
+![Diagrama Flask](./docs/diagrams/jupyter.png)
+
 
 ## **Fluxo dos dados**
 Esse projeto tem como foco realizar um projeto de **análise e ciência de dados** com foco em realizar uma análise histórica dos clientes PJ de uma operação e realizar a implementação de **análises estatísticas** e **aplicação de modelos matemáticos** para realizar um perfilamento e agrupamento dos clientes com base no fluxo de caixa recebido. Segue a abaixo o fluxo pensado:
@@ -26,7 +29,7 @@ Processamento:
 * Flask (Python 3.13.2);
 
 Armazenamento:
-<!-- * PostgreSQL Server (8.4); -->
+* PostgreSQL Server (8.4);
 
 Disponibilização:
 * Grafana;
