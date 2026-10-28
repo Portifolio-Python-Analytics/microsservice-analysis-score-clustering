@@ -19,14 +19,14 @@ Esse projeto tem como foco realizar um projeto de **análise e ciência de dados
 
 
 ## **Ferramentas utilizadas - Geral:**
-O projeto foi realizado utilizando frameworks baseados em Python (FastApi & Flask) para o processamento dos dados, com uma estrutura de dados para armazenamento dos dados (Nesta branch estou utilizando um servidor MySQL) e a ferramenta Grafana para disponibilização!
+O projeto foi realizado utilizando frameworks baseados em Python (FastApi & Flask) para o processamento dos dados, com uma estrutura de dados para armazenamento dos dados (Nesta branch estou utilizando um servidor PostgreSQL) e a ferramenta Grafana para disponibilização!
 
 # **Ferramentas utilizadas - Detalhamento:**
 Processamento:
 * Flask (Python 3.13.2);
 
 Armazenamento:
-* MySQL Server (8.4);
+<!-- * PostgreSQL Server (8.4); -->
 
 Disponibilização:
 * Grafana;
